@@ -1,4 +1,4 @@
-![profile-pic](img/YUEX-VISA.jpg = 250x)
+![profile-pic](img/YUEX-VISA.jpg =250x)
 
 I am a 4th year Ph.D. student from the Department of Electrical Engineering at Princeton University, working with Prof. [Sharad Malik](https://www.princeton.edu/~sharad/). 
 My research interest is to explore effective and efficient methods for modeling and verification of complex computing systems. Formal methods have been largely used in my research projects. My recent research project focuses on leveraging instruction-level hardware models in HW/SW co-simulation and Model-RTL tandem simulation.  
