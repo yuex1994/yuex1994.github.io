@@ -38,15 +38,15 @@ My research interest is to explore effective and efficient methods for modeling 
 ### Industrial
 
 -   **Hardware Engineering Intern, Google.** Jun 2018 - Dec 2018, Mountain View, CA, USA 
-    > Implemented Quantization frameworkf for TensorFlow models
-    > Developed end-to-end ML applications on domain specific accelerators
-    > Explored runtime overhead and parallel algorithms to optimize the applications
-    > Measured and characterized performance and power for the accelerators
-    > Explored a simulator-based power model for the accelerators
+    > Implemented Quantization frameworkf for TensorFlow models.  
+    > Developed end-to-end ML applications on domain specific accelerators.  
+    > Explored runtime overhead and parallel algorithms to optimize the applications.  
+    > Measured and characterized performance and power for the accelerators.  
+    > Explored a simulator-based power model for the accelerators.  
 
 -   **Research Intern, Intel Labs Beijing**
     Dec 2015 - Jun 2016, Beijing, China 
-    > Explored architectural-level optimization for machine learning framework -- Hierarchical Temporal Memory Model.
+    > Explored architectural-level optimization for machine learning framework -- Hierarchical Temporal Memory Model.  
 
 ### Teaching
 
