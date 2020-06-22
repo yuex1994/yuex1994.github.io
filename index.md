@@ -37,8 +37,7 @@ My research interest is to explore effective and efficient methods for modeling 
 
 ### Industrial
 
--   **Hardware Engineering Intern, Google.**
-    Jun 2018 - Dec 2018, Mountain View, CA, USA 
+-   **Hardware Engineering Intern, Google.** Jun 2018 - Dec 2018, Mountain View, CA, USA 
     > Implemented Quantization frameworkf for TensorFlow models
     > Developed end-to-end ML applications on domain specific accelerators
     > Explored runtime overhead and parallel algorithms to optimize the applications
