@@ -39,7 +39,7 @@ My research interest is to explore effective and efficient methods for modeling 
 
 -   **Hardware Engineering Intern, Google.**
     Jun 2018 - Dec 2018, Mountain View, CA, USA 
-    > Implemented Quantization framework to convert floating-point TensorFlow model to fixed-point model for edge-device applications
+    > Implemented Quantization frameworkf for TensorFlow models
     > Developed end-to-end ML applications on domain specific accelerators
     > Explored runtime overhead and parallel algorithms to optimize the applications
     > Measured and characterized performance and power for the accelerators
