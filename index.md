@@ -1,7 +1,7 @@
 ![profile-pic](img/YUEX-VISA.jpg)
 
 I am a 5th year Ph.D. student from the Department of Electrical Engineering at Princeton University, working with Prof. [Sharad Malik](https://www.princeton.edu/~sharad/). 
-My research interest is to explore effective and efficient methods for modeling and verification of complex computing systems. Formal methods have been largely used in my research projects. My recent research project focuses on leveraging instruction-level hardware models in HW/SW co-simulation and Model-RTL tandem simulation.  
+My research interest is to explore effective and efficient methods for modeling and verification of complex computing systems. Formal methods have been largely used in my research projects. My recent research project focuses on leveraging instruction-level hardware models in HW/SW co-simulation and hierarchical verification.  
 
 [CV](/files/cv.pdf) 
 \[[Google Scholar](https://scholar.google.com/citations?user=gPszBPMAAAAJ&hl=en&oi=ao)] 
@@ -14,7 +14,7 @@ My research interest is to explore effective and efficient methods for modeling 
 -  **_Leveraging Processor Modeling and Verification for General Hardware Modules_**
     > **Yue Xing**, Huaixi Lu, Aarti Gupta, Sharad Malik  
     > Design, Automation and Test in Europe Conference (DATE), 2021
-    > \[pdf(to appear)]
+    > \[pdf(/files/date21.pdf)]
 
 -   **_A Formal Instruction-Level GPU Model for Scalable Verification_**
     > **Yue Xing**, Bo-Yuan Huang, Aarti Gupta, and Sharad Malik  
