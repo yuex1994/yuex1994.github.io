@@ -15,6 +15,7 @@ My research interest is to explore effective and efficient methods for modeling 
     > **Yue Xing**, Huaixi Lu, Aarti Gupta, Sharad Malik  
     > Design, Automation and Test in Europe Conference (DATE), 2021
     > \[[pdf](/files/date21.pdf)]
+    > **_[Best Paper Award (D Track)](https://www.date-conference.com/)_**
 
 -   **_A Formal Instruction-Level GPU Model for Scalable Verification_**
     > **Yue Xing**, Bo-Yuan Huang, Aarti Gupta, and Sharad Malik  
