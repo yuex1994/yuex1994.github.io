@@ -14,7 +14,7 @@ My research interest is to explore effective and efficient methods for modeling 
 -  **_Leveraging Processor Modeling and Verification for General Hardware Modules_**
     > **Yue Xing**, Huaixi Lu, Aarti Gupta, Sharad Malik  
     > Design, Automation and Test in Europe Conference (DATE), 2021
-    > \[[pdf](/files/date21.pdf)]
+    > \[[pdf](/files/date21.pdf)]  
     > **_[Best Paper Award (D Track)](https://www.date-conference.com/)_**\[[Press](https://ece.princeton.edu/news/research-team-wins-best-paper-award-generalized-design-verification-model)]  
 
 -   **_A Formal Instruction-Level GPU Model for Scalable Verification_**
