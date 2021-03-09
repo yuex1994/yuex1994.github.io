@@ -14,8 +14,8 @@ My research interest is to explore effective and efficient methods for modeling 
 -  **_Leveraging Processor Modeling and Verification for General Hardware Modules_**
     > **Yue Xing**, Huaixi Lu, Aarti Gupta, Sharad Malik  
     > Design, Automation and Test in Europe Conference (DATE), 2021
-    > \[[pdf](/files/date21.pdf)]  
-    > **_[Best Paper Award (D Track)](https://www.date-conference.com/)_**
+    > \[[pdf](/files/date21.pdf)]
+    > **_[Best Paper Award (D Track)](https://www.date-conference.com/)_**\[[Press](https://ece.princeton.edu/news/research-team-wins-best-paper-award-generalized-design-verification-model)]  
 
 -   **_A Formal Instruction-Level GPU Model for Scalable Verification_**
     > **Yue Xing**, Bo-Yuan Huang, Aarti Gupta, and Sharad Malik  
@@ -65,11 +65,11 @@ My research interest is to explore effective and efficient methods for modeling 
 ### Mentoring
 
 -   **Tinotenda Chinamora**
-    > EE Department Undergrads Summer Internship Project, Summer 2020 
+    > EE Department Undergrads Summer Internship Project, Summer 2020  
     > Advisor: Prof. Sharad Malik  
-    > Tandem Simulation between Instruction-level Abstraction (ILA) and RTL Implementations: Accelerator Case Studies 
+    > Project: Tandem Simulation between Instruction-level Abstraction (ILA) and RTL -- Accelerator Case Studies 
 
 -   **Tinotenda Chinamora**
-    > EE Department Undergrads Independent Project, Spring 2020   
+    > EE Department Undergrads Independent Project, Spring 2020  
     > Advisor: Prof. Sharad Malik  
-    > Tandem Simulation between Instruction-level Abstraction (ILA) and RTL Implementations: Processor Case Studies 
+    > Tandem Simulation between Instruction-level Abstraction (ILA) and RTL -- Processor Case Studies 
