@@ -40,7 +40,7 @@ My research interest is to explore effective and efficient methods for modeling 
 
 -  **Software Engineering Intern, Facebook.** Jun 2020 - Aug 2020, Boston, MA, USA
     > Interned in data infrastructure team.  
-    > Researched on formal verification method in data privacy enhancement.  
+    > Researched on formal verification method in improving Facebook product service.  
     > Explored methods for query equivalence checking. 
 
 -   **Hardware Engineering Intern, Google.** Jun 2018 - Dec 2018, Mountain View, CA, USA 
