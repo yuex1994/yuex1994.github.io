@@ -50,10 +50,6 @@ My research interest is to explore effective and efficient methods for modeling 
     > Measured and characterized performance and power for the accelerators.  
     > Explored a simulator-based power model for the accelerators.  
 
--   **Research Intern, Intel Labs Beijing**
-    Dec 2015 - Jun 2016, Beijing, China 
-    > Explored architectural-level optimization for machine learning framework -- Hierarchical Temporal Memory Model.  
-
 ### Teaching
 
 -   **Head Lab Instructor**, ELE 206/COS 306 Contemporary Logic Design, Princeton University, Fall 2020
