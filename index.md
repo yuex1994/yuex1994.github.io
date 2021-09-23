@@ -11,11 +11,16 @@ My research interest is to explore effective and efficient methods for modeling 
 ## Publications
 
 ### Conferences
+- **_Generalizing Tandem Simulation: Connecting High-level and RTL Simulation Models_**
+    > **Yue Xing**, Aarti Gupta, Sharad Malik
+    > 27th Asia and South Pacific Design Automation Conference (ASP-DAC), 2022
+    > \[[pdf](/files/aspdac22.pdf)]
+
 -  **_Leveraging Processor Modeling and Verification for General Hardware Modules_**
     > **Yue Xing**, Huaixi Lu, Aarti Gupta, Sharad Malik  
     > Design, Automation and Test in Europe Conference (DATE), 2021
     > \[[pdf](/files/date21.pdf)]  
-    > **_[Best Paper Award (D Track)](https://www.date-conference.com/)_**\[[Press](https://ece.princeton.edu/news/research-team-wins-best-paper-award-generalized-design-verification-model)]  
+    > **_[Best Paper Award](https://www.date-conference.com/)_**\[[Press](https://ece.princeton.edu/news/research-team-wins-best-paper-award-generalized-design-verification-model)]  
 
 -   **_A Formal Instruction-Level GPU Model for Scalable Verification_**
     > **Yue Xing**, Bo-Yuan Huang, Aarti Gupta, and Sharad Malik  
@@ -34,6 +39,11 @@ My research interest is to explore effective and efficient methods for modeling 
     > Journal of Circuits, Systems and Computers, 2017 
     > \[[pdf](files/jcsc17.pdf)]
 
+## Awards
+- Richard C. Hough Teaching Award, Sep 2021
+- Best Paper Award (DATE), Feb 2021
+- Princeton Ph.D. Fellowship, Sep 2016
+
 ## Experience
 
 ### Industrial
@@ -45,8 +55,7 @@ My research interest is to explore effective and efficient methods for modeling 
 
 -   **Hardware Engineering Intern, Google.** Jun 2018 - Dec 2018, Mountain View, CA, USA 
     > Implemented Quantization frameworkf for TensorFlow models.  
-    > Developed end-to-end ML applications on domain specific accelerators.  
-    > Explored runtime overhead and parallel algorithms to optimize the applications.  
+    > Developed, optimized end-to-end ML applications on domain specific accelerators.  
     > Measured and characterized performance and power for the accelerators.  
     > Explored a simulator-based power model for the accelerators.  
 
