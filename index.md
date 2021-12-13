@@ -40,8 +40,9 @@ My research interest is to explore effective and efficient methods for modeling 
     > \[[pdf](files/jcsc17.pdf)]
 
 ## Awards
-- Richard C. Hough Teaching Award, Sep 2021
-- Best Paper Award (DATE), Feb 2021
+- Princeton Graduate School Award for Excellence, Dec 2021\[[Press](https://ece.princeton.edu/news/award-excellence-honors-graduate-student-achievement)]
+- Richard C. Hough Teaching Award, Sep 2021\[[Press](https://ece.princeton.edu/news/rising-occasion-graduate-students-offer-leadership-difficult-year)]
+- Best Paper Award (DATE), Feb 2021\[[Press](https://ece.princeton.edu/news/research-team-wins-best-paper-award-generalized-design-verification-model)]
 - Princeton Ph.D. Fellowship, Sep 2016
 
 ## Experience
