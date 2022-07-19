@@ -11,6 +11,11 @@ My research interest is to explore effective and efficient methods for modeling 
 ## Publications
 
 ### Conferences
+- **_Scaling SoC Verification through Instruction-Level Hardware Models_**
+    > **Yue Xing**, Huaixi Lu, Aarti Gupta, Sharad Malik
+    > 41st International Conference on Computer-Aided Design (ICCAD), 2022
+    > \[[pdf](/files/iccad22.pdf)]
+
 - **_Generalizing Tandem Simulation: Connecting High-level and RTL Simulation Models_**
     > **Yue Xing**, Aarti Gupta, Sharad Malik
     > 27th Asia and South Pacific Design Automation Conference (ASP-DAC), 2022
